@@ -1,0 +1,14 @@
+body {
+    background: #9792E3;
+}
+
+
+.heading {
+    font-family: 'Montserrat Subrayada', sans-serif;
+    color: #61E786;
+    display: flexbox;
+    text-align: center;
+    background: #48435C;
+
+}
+
