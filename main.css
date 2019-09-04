@@ -1,5 +1,7 @@
 body {
     background: #9792E3;
+    font-family: 'Shadows Into Light', cursive;
+
 }
 
 
@@ -9,6 +11,17 @@ body {
     display: flexbox;
     text-align: center;
     background: #48435C;
+    paddingtop;
 
 }
 
+.subheading {
+    /* display: flexbox; */
+    text-align: center;
+}
+
+.boxes {
+    width: 100px;
+    margin: 0 auto;
+
+}
